@@ -1,0 +1,4 @@
+# Use with:
+# crontab -e
+# i.e. append this to crontab:
+@reboot ./run_audio_startup.sh
